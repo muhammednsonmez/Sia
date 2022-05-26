@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Sia</string>
+    <string name="image">Image</string>
+    <string name="pick_an_image_to_show_here">Pick an image to show here.</string>
+    <string name="open">Open</string>
+    <string name="share_text">Share</string>
+    <string name="sia">Sia</string>
+    <string name="splash">SPLASH</string>
 </resources>

@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
         selectImage = findViewById(R.id.selectImage);
         imageView = findViewById(R.id.image_view);
         selectImage.setOnClickListener(view -> checkPermission());
-        shareButton = (Button) findViewById(R.id.shareButton);
+        shareButton = findViewById(R.id.shareButton);
 
         shareButton.setOnClickListener(view -> {
             BitmapDrawable bitmapDrawable = ((BitmapDrawable) imageView.getDrawable());
