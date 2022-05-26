@@ -30,9 +30,8 @@
         android:layout_height="wrap_content"
         android:text="@string/pick_an_image_to_show_here"
         android:layout_centerInParent="true"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        />
+        android:textSize="21sp"
+        android:textStyle="bold"/>
 
     <ImageView
         android:id="@+id/image_view"
